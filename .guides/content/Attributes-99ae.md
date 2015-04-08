@@ -21,4 +21,3 @@ Another great use for this is for screen readers for visually impaired people. S
 ## Other attributes
 Each HTML element has its own set of attributes. We'll learn more about them as we come across new HTML elements.
 
-

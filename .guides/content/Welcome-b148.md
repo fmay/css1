@@ -4,11 +4,11 @@ This module introduces you to HTML and assumes you have absolutely no knowledge 
 
 |||
 ## What we will cover in this Guide
-- a basic web page
+- A basic web page
 - `<h>` and `<p>` elements
-- text effects
-- images
-- element attributes
+- Simple text effects using `<b>`, `<u>` and `<i>`
+- Images using the `<img>` tag.
+- Element attributes.
 
 |||
 

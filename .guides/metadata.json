@@ -3,24 +3,76 @@
   {
    "id": "b148bb8-89d6-c12d-7541-5d13506c3003",
    "title": "Welcome",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "01-intro"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Welcome-b148.md"
   },
   {
-   "id": "896a14c1-d6bc-b27d-1ac9-a979ef5c3027",
-   "title": "A really simple web page",
+   "id": "369c392a-1b12-9d76-f426-77a5ca119a38",
+   "title": "Some Terminology",
    "files": [],
    "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Some-Terminology-369c.md"
+  },
+  {
+   "id": "896a14c1-d6bc-b27d-1ac9-a979ef5c3027",
+   "title": "A really simple web page",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "01-intro/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 01-intro/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "01-intro"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/A-really-simple-web-page-896a.md"
   },
   {
    "id": "146f2ce7-7ae1-5f08-273e-eac9e3291235",
    "title": "A slightly more interesting one",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "02-intro/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 02-intro/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "02-intro"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/A-slightly-more-interesting-one-146f.md"
   },
@@ -35,24 +87,78 @@
   {
    "id": "6d04f562-5a19-d040-1449-e6a95832d0f1",
    "title": "Fix it",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "04-fixit/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 04-fixit/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "04-fixit"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Fix-it-6d04.md"
   },
   {
    "id": "f2097d43-6760-cdb6-44a4-8f10ebc280b7",
    "title": "Funkier text",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "04-bui/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 04-bui/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "04-bui"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Funkier-text-f209.md"
   },
   {
    "id": "74765902-eae6-eb50-3cff-304f6cbaa136",
    "title": "At last, an image",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "05-img/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 05-img/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "05-img"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/At-last--an-image-7476.md"
   },
@@ -62,7 +168,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-8-99ae.md"
+   "content-file": ".guides/content/Attributes-99ae.md"
   }
  ]
 }

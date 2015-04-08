@@ -1,7 +1,7 @@
 You should now see a different web page appear. Let's see what we've added.
 
-|||definition
-## Header tags
+|||info
+## Tags we've used
 - `<h1>Heading</h1>` gives you a level 1 heading. This is usually the largest one.
 - `<h2>Smaller heading</h2>` gives you a level 2 heading. This is a bit smaller than the `<h1>`.
 - `<p>Hello there!!!</p>` gives you a paragraph. 
