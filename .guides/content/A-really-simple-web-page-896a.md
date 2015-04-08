@@ -1,17 +1,4 @@
-A web page is typically read from a file that lives on a server somewhere on the internet.
-
-{ILLUSTRATION: show browser on device, internet, web server, web page}
-
-|||definition
-## Web Server 
-A web server is a piece of software that usually runs on a file server. It gets web pages, images and other files and sends them to a browser that wants to load them.
-|||
-
-|||definition
-## Web Page
-A web page is a file or document that can be displayed by Web Browsers. It that contains the HTML code that describes the content of 
-
-On the left hand side is a so-called file tree. This is where files are stored. We'll talk about this more soon.
+On the far left hand side is a so-called file tree. This is where files are stored. We'll talk about this more soon.
 
 You can see an opened file `index.html` on the left. What you are seeing is a very basic web page.
 

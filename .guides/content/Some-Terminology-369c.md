@@ -5,7 +5,7 @@ A web page is typically read from a file that lives on a server somewhere on the
 
 |||definition
 ## World Wide Web
-The World Wide Web (www, W3) is an information system of interlinked hypertext documents that are accessed via the Internet. It has become known simply as *the Web*.
+The World Wide Web, sometimes referred to as www or W3 is an information system of interlinked hypertext documents that are accessed via the Internet. It has become known simply as *the Web*.
 |||
 
 |||definition

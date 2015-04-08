@@ -17,11 +17,11 @@ The way you do this is to use tags to enclose the piece of text you want to chan
 Here are some tips and clues
 
 - Try just bold first before you do all 3. This way you can be sure you have understood the idea first.
+
 - The tag for bold is `<b>`
 - The tag for underlined is `<u>`
 - The tag for italic is `<i>`
 
-**Important** : you need opening and closing tags for all these. Try and see what happens if you don't.
 
 **Also imporant** : after you've made your changes, press the Reload Preview button. 
 

@@ -7,4 +7,6 @@ It's actually very easy to add images just using the `<img>` tag.
 Notice that there is no closing tag to match the opening tag. The `<img>` tag is one of the few tags where this is the case.
 |||
 
-
+|||challenge
+In the file tree on the far left is a second image `not-cute.jpg`. Modify `index.html` so it is displayed rather than the puppy and kitten.
+|||

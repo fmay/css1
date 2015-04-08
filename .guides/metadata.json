@@ -93,19 +93,19 @@
      "action": "close"
     },
     {
-     "path": "04-fixit/index.html",
+     "path": "03-fixit/index.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: 04-fixit/index.html",
+     "path": "#preview: 03-fixit/index.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "04-fixit"
+    "03-fixit"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Fix-it-6d04.md"
@@ -166,9 +166,90 @@
    "id": "99aebb55-e6cd-6d9f-d3d1-47f669faf938",
    "title": "Attributes",
    "files": [],
-   "path": [],
+   "layout": "",
+   "path": [
+    "05-img"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Attributes-99ae.md"
+  },
+  {
+   "id": "9e0b2464-2673-16d-756a-6ff0d96d59a1",
+   "title": "Indenting matters",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "06-indent/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 06-indent/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "06-indent"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Indenting-matters-9e0b.md"
+  },
+  {
+   "id": "cf241da5-13e3-a5b2-e3f4-d86db8c79b3",
+   "title": "Line breaks",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "07-br/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 07-br/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "07-br"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Line-breaks-cf24.md"
+  },
+  {
+   "id": "a25bd5cb-8be4-aec9-36da-5dc26473b535",
+   "title": "Final Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "10-final-test/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 10-final-test/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "10-final-test"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Final-Challenge-a25b.md"
   }
  ]
 }
