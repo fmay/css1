@@ -24,7 +24,7 @@ $("img").each(function( index ) {
 });
 
 if (fa['h1'] >= 1 && fa['p'] >= 3 && fa['h2'] == 1 && ugly.toUpperCase() == 'UGLY' && imgCtr==2) {
-  console.log(0, "Well done!")
+  console.log(0,"Well done!")
 }
 else {
   if (fa['h1'] < 1) retStr += 'Missing <h1> tag.\n'
